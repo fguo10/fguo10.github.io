@@ -1,6 +1,7 @@
 theme: vita
 title: Reassume
 resume:
+  theme: vita
   name: YOUR NAME
   jobtitle: Your Job Title
   location:
