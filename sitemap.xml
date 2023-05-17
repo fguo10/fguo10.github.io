@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2023/05/16/hello-world/</loc>
+    
+    <lastmod>2023-05-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2020/10/11/Event-Driven_MicroServices_using_SpringBoot_and_RabbitMQ/</loc>
     
     <lastmod>2023-05-17</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>http://example.com/2020/10/11/Learn_RabbitMQ_with_SpringBoot/</loc>
-    
-    <lastmod>2023-05-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2023/05/16/hello-world/</loc>
     
     <lastmod>2023-05-17</lastmod>
     
